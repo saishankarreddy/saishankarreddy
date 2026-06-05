@@ -1,80 +1,105 @@
+# 👋 Hi, I'm Sai Shankar Reddy Karri!
 
-![Full Stack Developer](https://media.geeksforgeeks.org/wp-content/uploads/20240415204701/How-to-Become-a-Python-Full-Stack-Developer.png)
-<h1 align="center">Hi 👋, I'm SaiShankarReddyKarri </h1>
-<h3 align="center">A Passionate Python Developer from Bangalore</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<div id="header" align="left">
-  <img src="https://komarev.com/ghpvc/?username=AranavMahalpure&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-<br>
-
-- 🌱 I’ve completed my learning in **Python Development (Django),Web_Development,Oracle SQL**
-- 👯 I’m looking to collaborate on Python based projects
-- 🤝 I’m looking for help with latest Gen-AI Skills
-- 👨‍💻 All of my projects are available at [My Projects](https://github.com/saishankarreddy)
-- 👨‍💻 More projects are still in development phase....
-- 💬 Ask me about **Python,SQL,HTML,CSS,JS**
-- 📫 How to reach me: **boyasivakumar252@gmail.com**
-- 📄 Know about my experiences [LinkedIN](https://www.linkedin.com/in/sai-shankar-reddy)
-
-<h3 align="left">Currently, I have started my journey in Data Structures and Algorithms and Competitive Programming. If you want to join, let's connect! 👯</h3>
-<img align="right" alt="Coding" width="400" src="https://www.vcubesoftsolutions.com/wp-content/uploads/2021/11/PythonFullStackPackage.jpg">
-<h3 align="left">Connect with me ⚡:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sai-shankar-reddy3" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aranavmahalpure" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/saishankar" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aranav@1289" height="30" width="40" />
-  </a>
-  <a href="https://x.com/Saishankar" target="_blank" rel="noreferrer">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="techie mindblower🤬" height="30" width="40" />
-  </a>
-  <!-- Uncomment below if you want to include more links -->
-  <!--
-  <a href="https://www.codechef.com/users/aranav1289" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aranav1289" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/aranav1289" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aranav1289" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/aranav1289" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aranav1289" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/aranavmahalpure" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aranavmahalpure" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@aranav1289" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aranav1289" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/aranav1289" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aranav1289" height="30" width="40" />
-  </a>
-  <a href="https://www.topcoder.com/members/aranav1289" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="aranav1289" height="30" width="40" />
-  </a>
-  -->
+<p align="center">
+  <a href="https://linkedin.com/in/sai-shankar-reddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:saishankareddykarri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/saishankarreddy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1618401471353-b98aedd07871?q=80&w=600&auto=format&fit=crop" width="100%" alt="DevOps Banner" style="border-radius: 8px;" />
 </p>
-  
+
+## 🚀 About Me
+I am a passionate **DevOps Engineer** and ECE Graduate with hands-on expertise in automating infrastructure, building resilient CI/CD pipelines, and orchestrating containerized environments. I bridge the gap between traditional DevOps practices and cutting-edge **AI/LLM integrations** to engineer smarter, self-healing cloud ecosystems.
+
+- 🎓 **B.Tech:** Electronics and Communication Engineering | CGPA: 8.29/10.0 (Prathyusha Engineering College)
+- 💡 **Interests:** Cloud Automation, AI-Driven Infrastructure Operations, GitOps, and Observability.
+- ⚡ **Fun Fact:** I love building AI agents that automatically troubleshoot complex Kubernetes clusters so engineers can sleep peacefully at night!
+
+---
+
+## 🛠️ Tech Stack & Toolkit
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishankarreddy&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</p>
+
+### ☁️ Cloud & Infrastructure as Code
+![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
+![](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) 
+![](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) 
+![](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/HashiCorp_Vault-60DEAA?style=flat-square&logo=hashicorp&logoColor=white)
+
+### 🐋 Containers & Orchestration
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
+![](https://img.shields.io/badge/Helm-0F1626?style=flat-square&logo=helm&logoColor=white) 
+![](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 🔄 CI/CD & Automation
+![](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) 
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
+![](https://img.shields.io/badge/Webhooks-000000?style=flat-square&logo=github&logoColor=white)
+
+### 📊 Monitoring & Observability
+![](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) 
+![](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) 
+![](https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 🐍 Scripting, Frameworks & AI
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
+![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
+![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/AI_Agents_/_LLM-8A2BE2?style=flat-square) 
+![](https://img.shields.io/badge/RAG_/_MCP-4B0082?style=flat-square)
+
+---
+
+## 🏗️ Featured Projects
+
+### 🤖 1. AI-Powered Kubernetes Troubleshooting Platform (2026)
+*An intelligent diagnostics engine that automates multi-namespace cluster incident management.*
+- **Tech Stack:** Python, FastAPI, Kubernetes API, Docker, Next.js, OpenRouter LLM, MCP.
+- ⚙️ Automated discovery & investigation of Pod, Deployment, Service, Event, and Network anomalies using native `kubectl` context tracking.
+- 📉 Reduced manual operational troubleshooting overhead by **70%** and boosted root-cause identification accuracy by **80%**.
+- 🛠️ Features automated generation of step-by-step remediation commands, confidence scoring, and runbook-aligned mitigation tactics.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcTlzN294dmI5dmI5OWV2Ym8yOXN6YmI5Nmg4ZG80OHp6Y3MxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="450" alt="Kubernetes Automation GIF">
+</p>
+
+### 🏗️ 2. Production-Grade Terraform Infrastructure on AWS (2025)
+*Idempotent multi-environment infrastructure provisioning with automated drift protection.*
+- **Tech Stack:** Terraform, AWS (EC2, VPC, IAM, Security Groups), HashiCorp Vault, Ansible.
+- 🔐 Configured workspace-based deployment workflows utilizing **S3 + DynamoDB State Locking** to guarantee zero-conflict collaboration.
+- 🔑 Secured continuous deployments by integrating **HashiCorp Vault** dynamic credentials to enforce a strict zero-standing-privilege security standard.
+- 🚀 Bootstrapped and configuration-managed freshly provisioned EC2 instances via automated **Ansible Playbooks**, removing **60%** of human intervention.
+
+### 🔄 3. Automated End-to-End GitOps CI/CD Pipeline (2025)
+*Zero-touch continuous integration and scaling for microservices on containerized infrastructure.*
+- **Tech Stack:** Jenkins, Docker, K3s (Kubernetes), AWS ECR, Prometheus, Grafana, GitHub Webhooks, Django.
+- 🛠️ Built a robust webhook-triggered pipeline pulling code commits instantly into multi-stage container builds to save registry footprint.
+- 📈 Configured **Horizontal Pod Autoscaling (HPA)** metric criteria to organically manage microservice throughput stability during massive spikes.
+- 📊 Provisioned deep-dive infrastructure telemetry monitors using customized Prometheus exporters paired with **Grafana Alerts**.
+
+---
+
+## 📜 Certifications & Pathing
+- 🎓 **AI Upskilling Certificate: Technical Foundations** – Qualcomm Academy (2026)
+- ☁️ **AWS Solutions Architect Associate Pathway** – AWS Academy (2024)
+- 🌐 **Introduction to Networks (CCNA Track)** – Cisco Networking Academy (2023)
+
+---
+
+## 📈 Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saishankarreddy&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  Let's build something scalable and reliable together! Feel free to open an issue or drop an email. 🚀
+</p>
